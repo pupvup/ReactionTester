@@ -1,0 +1,15 @@
+body {
+	font-family: 'Markazi Text', serif;
+	color: #414042;
+	font-size: 140%;
+	background-color: #EAE6E1;
+}
+
+#figures-block {
+	width: 200px;
+	height: 200px;
+	background-color: #B9789F;
+	display: none;
+	position: relative;
+	top: 70px;
+}
